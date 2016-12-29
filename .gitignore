@@ -1,2 +1,5 @@
 ice/assets/ice.properties
 docker-compose.yml
+oauth2_proxy/mount/grant_emails.txt
+oauth2_proxy/mount/config
+*~
